@@ -15,3 +15,6 @@ Building a production system or need this tuned for your specific infrastructure
 * Rate Limiting: Built-in adjustable delay mechanisms to respect third-party API limits.
 * Robust Error Handling: Exception encapsulation (return_exceptions=True) during bulk runs to ensure a single failure doesn't crash the entire pipeline.
 * Clean & Lightweight: Pure Python standard library implementation with zero heavy external dependencies
+
+
+Saved you some dev hours? Drop a ⭐ to help the project grow!
